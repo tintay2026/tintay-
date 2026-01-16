@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VERSION 2",
+  "description": "Asistente cultural oficial del distrito de Tintay, Apurímac. Una experiencia inmersiva para preservar nuestras tradiciones con la calidez de nuestra gente.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
